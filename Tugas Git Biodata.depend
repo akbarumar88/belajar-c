@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600899687 source:/home/akbar/Documents/TUGAS/Semester 3/Pemrograman Lanjut/Latihan/Tugas Git Biodata/main.c
+	<stdio.h>
+	<stdlib.h>
+
